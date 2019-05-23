@@ -1,5 +1,6 @@
 # cookie-store
 
+![OREO](https://github.com/oreo-shop/cookie-store)
 ## Really a wonderful store
 
 This is a store that sells tasty cookies.
